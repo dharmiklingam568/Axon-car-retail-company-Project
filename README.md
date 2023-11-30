@@ -7,11 +7,11 @@ To address this issue, the company has decided to implement a Business Intellige
 The goal of the capstone project is to design and implement a BI solution using Power BI and SQL that can help the company manage and analyse their sales data effectively. 
 
 ## AIM
-•	Import and integrate the data from MySQL database into Power BI
-Clean and transform the data to make it ready for analysis.
-•	Build interactive dashboards and reports using Power BI that can help the sales team and management make sense of the data.
-•	Use SQL to perform advanced analytics on the data and extract insights that can help the company improve its sales (if needed).
-•	Enable the management to access the dashboards and reports in real-time and make data-driven decisions.
+# •	Import and integrate the data from MySQL database into Power BI
+# Clean and transform the data to make it ready for analysis.
+# •	Build interactive dashboards and reports using Power BI that can help the sales team and management make sense of the data.
+# •	Use SQL to perform advanced analytics on the data and extract insights that can help the company improve its sales (if needed).
+# •	Enable the management to access the dashboards and reports in real-time and make data-driven decisions.
 
 ## ABOUT DATASET 
 Here is a short description of the data tables included that contains typical business data such as customers, products, sales orders, sales order line items, etc. 
