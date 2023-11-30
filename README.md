@@ -8,7 +8,7 @@ The goal of the capstone project is to design and implement a BI solution using 
 
 ## AIM
 #### •	Import and integrate the data from MySQL database into Power BI
-#### Clean and transform the data to make it ready for analysis.
+#### • Clean and transform the data to make it ready for analysis.
 #### •	Build interactive dashboards and reports using Power BI that can help the sales team and management make sense of the data.
 #### •	Use SQL to perform advanced analytics on the data and extract insights that can help the company improve its sales (if needed).
 #### •	Enable the management to access the dashboards and reports in real-time and make data-driven decisions.
