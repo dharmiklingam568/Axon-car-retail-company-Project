@@ -1,0 +1,123 @@
+customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit
+103,"Atelier graphique",Schmitt,"Carine ",40322555,"54, rue Royale",Nantes,unknow,44000,France,1370,21000.00
+112,"Signal Gift Stores",King,Jean,7025551838,"8489 Strong St.","Las Vegas",NV,83030,USA,1166,71800.00
+114,"Australian Collectors, Co.",Ferguson,Peter,0395204555,"636 St Kilda Road",Melbourne,Victoria,3004,Australia,1611,117300.00
+119,"La Rochelle Gifts",Labrune,"Janine ",40678555,"67, rue des Cinquante Otages",Nantes,unknow,44000,France,1370,118200.00
+121,"Baane Mini Imports",Bergulfsen,"Jonas ",07989555,"Erling Skakkes gate 78",Stavern,unknow,4110,Norway,1504,81700.00
+124,"Mini Gifts Distributors Ltd.",Nelson,Susan,4155551450,"5677 Strong St.","San Rafael",CA,97562,USA,1165,210500.00
+125,"Havel & Zbyszek Co",Piestrzeniewicz,"Zbyszek ",266427555,"ul. Filtrowa 68",Warszawa,unknow,01-012,Poland,NULL,0.00
+128,"Blauer See Auto, Co.",Keitel,Roland,496966902555,"Lyonerstr. 34",Frankfurt,unknow,60528,Germany,1504,59700.00
+129,"Mini Wheels Co.",Murphy,Julie,6505555787,"5557 North Pendale Street","San Francisco",CA,94217,USA,1165,64600.00
+131,"Land of Toys Inc.",Lee,Kwai,2125557818,"897 Long Airport Avenue",NYC,NY,10022,USA,1323,114900.00
+141,"Euro+ Shopping Channel",Freyre,"Diego ",915559444,"C/ Moralzarzal, 86",Madrid,unknow,28034,Spain,1370,227600.00
+144,"Volvo Model Replicas, Co",Berglund,"Christina ",0921123555,"Berguvsvägen  8",Luleå,unknow,"S-958 22",Sweden,1504,53100.00
+145,"Danish Wholesale Imports",Petersen,"Jytte ",31123555,"Vinbæltet 34",Kobenhavn,unknow,1734,Denmark,1401,83400.00
+146,"Saveley & Henriot, Co.",Saveley,"Mary ",78325555,"2, rue du Commerce",Lyon,unknow,69004,France,1337,123900.00
+148,"Dragon Souveniers, Ltd.",Natividad,Eric,652217555,"Bronz Sok.",Singapore,unknow,079903,Singapore,1621,103800.00
+151,"Muscle Machine Inc",Young,Jeff,2125557413,"4092 Furth Circle",NYC,NY,10022,USA,1286,138500.00
+157,"Diecast Classics Inc.",Leong,Kelvin,2155551555,"7586 Pompton St.",Allentown,PA,70267,USA,1216,100600.00
+161,"Technics Stores Inc.",Hashimoto,Juri,6505556809,"9408 Furth Circle",Burlingame,CA,94217,USA,1165,84600.00
+166,"Handji Gifts& Co",Victorino,Wendy,652241555,"106 Linden Road Sandown",Singapore,unknow,069045,Singapore,1612,97900.00
+167,"Herkku Gifts",Oeztan,Veysel,4722673215,"Brehmen St. 121",Bergen,unknow,"N 5804","Norway  ",1504,96800.00
+168,"American Souvenirs Inc",Franco,Keith,2035557845,"149 Spinnaker Dr.","New Haven",CT,97823,USA,1286,0.00
+169,"Porto Imports Co.","de Castro","Isabel ",13565555,"Estrada da saúde n. 58",Lisboa,unknow,1756,Portugal,NULL,0.00
+171,"Daedalus Designs Imports",Rancé,"Martine ",20161555,"184, chaussée de Tournai",Lille,unknow,59000,France,1370,82900.00
+172,"La Corne D'abondance, Co.",Bertrand,Marie,142342555,"265, boulevard Charonne",Paris,unknow,75012,France,1337,84300.00
+173,"Cambridge Collectables Co.",Tseng,Jerry,6175555555,"4658 Baden Av.",Cambridge,MA,51247,USA,1188,43400.00
+175,"Gift Depot Inc.",King,Julie,2035552570,"25593 South Bay Ln.",Bridgewater,CT,97562,USA,1323,84300.00
+177,"Osaka Souveniers Co.",Kentary,Mory,810663425555,"1-6-20 Dojima",Kita-ku,Osaka," 530-0003",Japan,1621,81200.00
+181,"Vitachrome Inc.",Frick,Michael,2125551500,"2678 Kingston Rd.",NYC,NY,10022,USA,1286,76400.00
+186,"Toys of Finland, Co.",Karttunen,Matti,902248555,"Keskuskatu 45",Helsinki,unknow,21240,Finland,1501,96500.00
+187,"AV Stores, Co.",Ashworth,Rachel,1715551555,"Fauntleroy Circus",Manchester,unknow,"EC2 5NT",UK,1501,136800.00
+189,"Clover Collections, Co.",Cassidy,Dean,35318621555,"25 Maiden Lane",Dublin,unknow,2,Ireland,1504,69400.00
+198,"Auto-Moto Classics Inc.",Taylor,Leslie,6175558428,"16780 Pompton St.",Brickhaven,MA,58339,USA,1216,23000.00
+201,"UK Collectables, Ltd.",Devon,Elizabeth,1715552282,"12, Berkeley Gardens Blvd",Liverpool,unknow,"WX1 6LT",UK,1501,92700.00
+202,"Canadian Gift Exchange Network",Tamuri,"Yoshi ",6045553392,"1900 Oak St.",Vancouver,BC,"V3F 2K1",Canada,1323,90300.00
+204,"Online Mini Collectables",Barajas,Miguel,6175557555,"7635 Spinnaker Dr.",Brickhaven,MA,58339,USA,1188,68700.00
+205,Toys4GrownUps.com,Young,Julie,6265557265,"78934 Hillside Dr.",Pasadena,CA,90003,USA,1166,90700.00
+206,"Asian Shopping Network, Co",Walker,Brydey,61294111555,"Suntec Tower Three",Singapore,unknow,038988,Singapore,NULL,0.00
+209,"Mini Caravy",Citeaux,"Frédérique ",88601555,"24, place Kléber",Strasbourg,unknow,67000,France,1370,53800.00
+211,"King Kong Collectables, Co.",Gao,Mike,85222511555,"Bank of China Tower","Central Hong Kong",unknow,NULL,"Hong Kong",1621,58600.00
+216,"Enaco Distributors",Saavedra,"Eduardo ",932034555,"Rambla de Cataluña, 23",Barcelona,unknow,08022,Spain,1702,60300.00
+219,"Boards & Toys Co.",Young,Mary,3105552373,"4097 Douglas Av.",Glendale,CA,92561,USA,1166,11000.00
+223,"Natürlich Autos",Kloss,"Horst ",0372555188,"Taucherstraße 10",Cunewalde,unknow,01307,Germany,NULL,0.00
+227,"Heintze Collectables",Ibsen,Palle,86213555,"Smagsloget 45",Århus,unknow,8200,Denmark,1401,120800.00
+233,"Québec Home Shopping Network",Fresnière,"Jean ",5145558054,"43 rue St. Laurent",Montréal,Québec,"H1J 1C3",Canada,1286,48700.00
+237,"ANG Resellers",Camino,"Alejandra ",917456555,"Gran Vía, 1",Madrid,unknow,28001,Spain,NULL,0.00
+239,"Collectable Mini Designs Co.",Thompson,Valarie,7605558146,"361 Furth Circle","San Diego",CA,91217,USA,1166,105000.00
+240,giftsbymail.co.uk,Bennett,"Helen ",1985558888,"Garden House",Cowes,"Isle of Wight","PO31 7PJ",UK,1501,93900.00
+242,"Alpha Cognac",Roulet,"Annette ",61776555,"1 rue Alsace-Lorraine",Toulouse,unknow,31000,France,1370,61100.00
+247,"Messner Shopping Network",Messner,"Renate ",0690555984,"Magazinweg 7",Frankfurt,unknow,60528,Germany,NULL,0.00
+249,"Amica Models & Co.",Accorti,"Paolo ",0114988555,"Via Monte Bianco 34",Torino,unknow,10100,Italy,1401,113000.00
+250,"Lyon Souveniers","Da Silva",Daniel,33146627555,"27 rue du Colonel Pierre Avia",Paris,unknow,75508,France,1337,68100.00
+256,"Auto Associés & Cie.",Tonini,"Daniel ",30598555,"67, avenue de l'Europe",Versailles,unknow,78000,France,1370,77900.00
+259,"Toms Spezialitäten, Ltd",Pfalzheim,"Henriette ",02215554327,"Mehrheimerstr. 369",Köln,unknow,50739,Germany,1504,120400.00
+260,"Royal Canadian Collectables, Ltd.",Lincoln,"Elizabeth ",6045554555,"23 Tsawassen Blvd.",Tsawassen,BC,"T2F 8M4",Canada,1323,89600.00
+273,"Franken Gifts, Co",Franken,"Peter ",0890877555,"Berliner Platz 43",München,unknow,80805,Germany,NULL,0.00
+276,"Anna's Decorations, Ltd",O'Hara,Anna,0299368555,"201 Miller Street","North Sydney",NSW,2060,Australia,1611,107800.00
+278,"Rovelli Gifts",Rovelli,"Giovanni ",035640555,"Via Ludovico il Moro 22",Bergamo,unknow,24100,Italy,1401,119600.00
+282,"Souveniers And Things Co.",Huxley,Adrian,61294958555,"Monitor Money Building",Chatswood,NSW,2067,Australia,1611,93300.00
+286,"Marta's Replicas Co.",Hernandez,Marta,6175558555,"39323 Spinnaker Dr.",Cambridge,MA,51247,USA,1216,123700.00
+293,"BG&E Collectables",Harrison,Ed,41264255001,"Rte des Arsenaux 41 ",Fribourg,unknow,1700,Switzerland,NULL,0.00
+298,"Vida Sport, Ltd",Holz,Mihael,0897034555,"Grenzacherweg 237",Genève,unknow,1203,Switzerland,1702,141300.00
+299,"Norway Gifts By Mail, Co.",Klaeboe,Jan,4722121555,"Drammensveien 126A",Oslo,unknow,"N 0106","Norway  ",1504,95100.00
+303,"Schuyler Imports",Schuyler,Bradley,31204919555,"Kingsfordweg 151",Amsterdam,unknow,"1043 GR",Netherlands,NULL,0.00
+307,"Der Hund Imports",Andersen,Mel,0300074555,"Obere Str. 57",Berlin,unknow,12209,Germany,NULL,0.00
+311,"Oulu Toy Supplies, Inc.",Koskitalo,Pirkko,981443655,"Torikatu 38",Oulu,unknow,90110,Finland,1501,90500.00
+314,"Petit Auto",Dewey,"Catherine ",02555467,"Rue Joseph-Bens 532",Bruxelles,unknow,B-1180,Belgium,1401,79900.00
+319,"Mini Classics",Frick,Steve,9145554562,"3758 North Pendale Street","White Plains",NY,24067,USA,1323,102700.00
+320,"Mini Creations Ltd.",Huang,Wing,5085559555,"4575 Hillside Dr.","New Bedford",MA,50553,USA,1188,94500.00
+321,"Corporate Gift Ideas Co.",Brown,Julie,6505551386,"7734 Strong St.","San Francisco",CA,94217,USA,1165,105000.00
+323,"Down Under Souveniers, Inc",Graham,Mike,6493125555,"162-164 Grafton Road","Auckland  ",unknow,NULL,"New Zealand",1612,88000.00
+324,"Stylish Desk Decors, Co.",Brown,"Ann ",1715550297,"35 King George",London,unknow,"WX3 6FW",UK,1501,77000.00
+328,"Tekni Collectables Inc.",Brown,William,2015559350,"7476 Moss Rd.",Newark,NJ,94019,USA,1323,43000.00
+333,"Australian Gift Network, Co",Calaghan,Ben,61738446555,"31 Duncan St. West End","South Brisbane",Queensland,4101,Australia,1611,51600.00
+334,"Suominen Souveniers",Suominen,Kalle,35898045555,"Software Engineering Center",Espoo,unknow,FIN-02271,Finland,1501,98800.00
+335,"Cramer Spezialitäten, Ltd",Cramer,"Philip ",055509555,"Maubelstr. 90",Brandenburg,unknow,14776,Germany,NULL,0.00
+339,"Classic Gift Ideas, Inc",Cervantes,Francisca,2155554695,"782 First Street",Philadelphia,PA,71270,USA,1188,81100.00
+344,"CAF Imports",Fernandez,Jesus,34913728555,"Merchants House",Madrid,unknow,28023,Spain,1702,59600.00
+347,"Men 'R' US Retailers, Ltd.",Chandler,Brian,2155554369,"6047 Douglas Av.","Los Angeles",CA,91003,USA,1166,57700.00
+348,"Asian Treasures, Inc.",McKenna,"Patricia ",2967555,"8 Johnstown Road",Cork,"Co. Cork",NULL,Ireland,NULL,0.00
+350,"Marseille Mini Autos",Lebihan,"Laurence ",91244555,"12, rue des Bouchers",Marseille,unknow,13008,France,1337,65000.00
+353,"Reims Collectables",Henriot,"Paul ",26471555,"59 rue de l'Abbaye",Reims,unknow,51100,France,1337,81100.00
+356,"SAR Distributors, Co",Kuger,Armand,27215503555,"1250 Pretorius Street",Hatfield,Pretoria,0028,"South Africa",NULL,0.00
+357,GiftsForHim.com,MacKinlay,Wales,6493763555,"199 Great North Road",Auckland,unknow,NULL,"New Zealand",1612,77700.00
+361,"Kommission Auto",Josephs,Karin,0251555259,"Luisenstr. 48",Münster,unknow,44087,Germany,NULL,0.00
+362,Gifts4AllAges.com,Yoshido,Juri,6175559555,"8616 Spinnaker Dr.",Boston,MA,51003,USA,1216,41900.00
+363,"Online Diecast Creations Co.",Young,Dorothy,6035558647,"2304 Long Airport Avenue",Nashua,NH,62005,USA,1216,114200.00
+369,"Lisboa Souveniers, Inc",Rodriguez,"Lino ",13542555,"Jardim das rosas n. 32",Lisboa,unknow,1675,Portugal,NULL,0.00
+376,"Precious Collectables",Urs,Braun,0452076555,"Hauptstr. 29",Bern,unknow,3012,Switzerland,1702,0.00
+379,"Collectables For Less Inc.",Nelson,Allen,6175558555,"7825 Douglas Av.",Brickhaven,MA,58339,USA,1188,70700.00
+381,"Royale Belge",Cartrain,"Pascale ",07123672555,"Boulevard Tirou, 255",Charleroi,unknow,B-6000,Belgium,1401,23500.00
+382,"Salzburg Collectables",Pipps,"Georg ",65629555,"Geislweg 14",Salzburg,unknow,5020,Austria,1401,71700.00
+385,"Cruz & Sons Co.",Cruz,Arnold,6325553587,"15 McCallum Street","Makati City",unknow,"1227 MM",Philippines,1621,81500.00
+386,"L'ordine Souveniers",Moroni,"Maurizio ",0522556555,"Strada Provinciale 124","Reggio Emilia",unknow,42100,Italy,1401,121400.00
+398,"Tokyo Collectables, Ltd",Shimamura,Akiko,81335840555,"2-2-8 Roppongi",Minato-ku,Tokyo,106-0032,Japan,1621,94400.00
+406,"Auto Canal+ Petit",Perrier,Dominique,147556555,"25, rue Lauriston",Paris,unknow,75016,France,1337,95000.00
+409,"Stuttgart Collectable Exchange",Müller,"Rita ",0711555361,"Adenauerallee 900",Stuttgart,unknow,70563,Germany,NULL,0.00
+412,"Extreme Desk Decorations, Ltd",McRoy,Sarah,044999555,"101 Lambton Quay",Wellington,unknow,NULL,"New Zealand",1612,86800.00
+415,"Bavarian Collectables Imports, Co.",Donnermeyer,Michael,498961089555,"Hansastr. 15",Munich,unknow,80686,Germany,1504,77000.00
+424,"Classic Legends Inc.",Hernandez,Maria,2125558493,"5905 Pompton St.",NYC,NY,10022,USA,1286,67500.00
+443,"Feuer Online Stores, Inc",Feuer,"Alexander ",0342555176,"Heerstr. 22",Leipzig,unknow,04179,Germany,NULL,0.00
+447,"Gift Ideas Corp.",Lewis,Dan,2035554407,"2440 Pompton St.",Glendale,CT,97561,USA,1323,49700.00
+448,"Scandinavian Gift Ideas",Larsson,Martha,0695346555,"Åkergatan 24",Bräcke,unknow,"S-844 67",Sweden,1504,116400.00
+450,"The Sharp Gifts Warehouse",Frick,Sue,4085553659,"3086 Ingle Ln.","San Jose",CA,94217,USA,1165,77600.00
+452,"Mini Auto Werke",Mendel,"Roland ",76753555,"Kirchgasse 6",Graz,unknow,8010,Austria,1401,45300.00
+455,"Super Scale Inc.",Murphy,Leslie,2035559545,"567 North Pendale Street","New Haven",CT,97823,USA,1286,95400.00
+456,"Microscale Inc.",Choi,Yu,2125551957,"5290 North Pendale Street",NYC,NY,10022,USA,1286,39800.00
+458,"Corrida Auto Replicas, Ltd",Sommer,"Martín ",915552282,"C/ Araquil, 67",Madrid,unknow,28023,Spain,1702,104600.00
+459,"Warburg Exchange",Ottlieb,"Sven ",0241039123,"Walserweg 21",Aachen,unknow,52066,Germany,NULL,0.00
+462,FunGiftIdeas.com,Benitez,Violeta,5085552555,"1785 First Street","New Bedford",MA,50553,USA,1216,85800.00
+465,"Anton Designs, Ltd.",Anton,Carmen,34913728555,"c/ Gobelas, 19-1 Urb. La Florida",Madrid,unknow,28023,Spain,NULL,0.00
+471,"Australian Collectables, Ltd",Clenahan,Sean,61938446555,"7 Allen Street","Glen Waverly",Victoria,3150,Australia,1611,60300.00
+473,"Frau da Collezione",Ricotti,Franco,39022515555,"20093 Cologno Monzese",Milan,unknow,NULL,Italy,1401,34800.00
+475,"West Coast Collectables Co.",Thompson,Steve,3105553722,"3675 Furth Circle",Burbank,CA,94019,USA,1166,55400.00
+477,"Mit Vergnügen & Co.",Moos,"Hanna ",062108555,"Forsterstr. 57",Mannheim,unknow,68306,Germany,NULL,0.00
+480,"Kremlin Collectables, Co.",Semenov,"Alexander ",78122930521,"2 Pobedy Square","Saint Petersburg",unknow,196143,Russia,NULL,0.00
+481,"Raanan Stores, Inc","Altagar,G M",Raanan,97299598555,"3 Hagalim Blv.",Herzlia,unknow,47625,Israel,NULL,0.00
+484,"Iberia Gift Imports, Corp.",Roel,"José Pedro ",955558282,"C/ Romero, 33",Sevilla,unknow,41101,Spain,1702,65700.00
+486,"Motor Mint Distributors Inc.",Salazar,Rosa,2155559857,"11328 Douglas Av.",Philadelphia,PA,71270,USA,1323,72600.00
+487,"Signal Collectibles Ltd.",Taylor,Sue,4155554312,"2793 Furth Circle",Brisbane,CA,94217,USA,1165,60300.00
+489,"Double Decker Gift Stores, Ltd",Smith,"Thomas ",1715557555,"120 Hanover Sq.",London,unknow,"WA1 1DP",UK,1501,43300.00
+495,"Diecast Collectables",Franco,Valarie,6175552555,"6251 Ingle Ln.",Boston,MA,51003,USA,1188,85100.00
+496,"Kelly's Gift Shop",Snowden,Tony,6495555500,"Arenales 1938 3'A'","Auckland  ",unknow,NULL,"New Zealand",1612,110000.00
